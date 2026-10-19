@@ -8,7 +8,7 @@ A UI/UX prototype for COMP826 Mobile Systems Development, Milestone 2. FoodSaver
 ## Prototype
 
 - Interactive Figma prototype: https://www.figma.com/proto/CzfvzzRniiLk5hpPLPFQn8/AI-Food-Waste-Reduction-Assistant-%E2%80%94-UI-UX
-- Demo video: [paste your video link here]
+- Demo video: [watch the demo](evaluation/Screen%20Recording%202026-10-19%20at%2014.16.44.mov) (GitHub can't preview large videos, so click the download arrow on the file page)
 - All screens as a PDF: `FoodSaver_Screens.pdf` (in this repository)
 - Final report: `COMP826_Milestone2_Report.pdf` (in this repository)
 
