@@ -25,4 +25,4 @@ Milestone 1 target (80% of users within 1 minute): not tested with users.
 | Add Food (barcode) | Visibility of system status | No scanning progress or failure state | Low | Recommended for coded build |
 
 ## Demo video
-[Demo video](../FoodSaver_Demo_cropped.mp4)
+[Demo video](Screen%20Recording%202026-10-19%20at%2014.16.44.mov)
